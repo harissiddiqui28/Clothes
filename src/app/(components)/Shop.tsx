@@ -116,10 +116,10 @@ const Shop:FC = () => {
     </div>
 
     
-    <div className="bg-white mt-8 overflow-hidden">
-      <Image src="/solid.png" alt="Logo" width={500} height={400} className="hero  hover:scale-110" />
+    <div className="bg-white mt-8  overflow-hidden ">
+      <Image src="/dress.webp" alt="Logo" width={500} height={400} className="hero  hover:scale-110" />
       <div className="p-2">
-     
+    
       </div>
     </div>
 
